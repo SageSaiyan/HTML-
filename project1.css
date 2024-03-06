@@ -1,0 +1,56 @@
+img{
+    width:90px;
+    height:90px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+}
+#a1{
+    width:40;
+    height:40;
+    float:right;
+    margin: 10px;
+}
+#a2{
+    width: 40px;
+    height: 40px;
+    float:right;
+    margin: 10px;
+}
+#a3{
+    width: 37px;
+    height: 37px;
+    float:right;
+    margin:10px;
+}
+#a123{
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+}
+#main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height:281px;
+    border-radius:40px;
+}
+#m1{
+    float:left;
+    height:196px;
+    width:350px;
+    margin: 40px;
+    margin-top:20px;
+    border-radius:30px;
+}
+#m2{
+    float:right;
+    height:200px;
+    width:360px;
+    margin: 40px;
+    margin-top:20px;
+    border-radius:30px;
+    margin-left:15px;
+}
